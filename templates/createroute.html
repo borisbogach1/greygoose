@@ -1,0 +1,24 @@
+{% extends 'base.html'%}
+
+{%block title%}
+
+{%endblock%}
+
+{%block body%}
+<h1>Создайте  свой маршрут</h1>
+ <form action="" method="post">
+       <fieldset>
+           <label for="startpoint">Название начальной точки</label>
+           <input type="text" name="startpoint" placeholder="startpoint">
+       </fieldset>
+       <fieldset>
+           <label for="point1"> Первая точка</label>
+           <input type="text" name="point1" placeholder="point1">
+       </fieldset>
+       <fieldset>
+           <label for="point2">Вторая точка</label>
+           <input type="text" name="point2" placeholder="point2">
+       </fieldset>
+       <button type="submit">Создать маршрут</button>
+   </form>
+{%endblock%}
