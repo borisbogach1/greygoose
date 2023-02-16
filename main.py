@@ -27,6 +27,13 @@ def suggestedroutes():
     return render_template('suggestedroutes.html')
 
 
+@app.route('/suggested_route/<int:number>')
+def suggested_route(number):
+    values = {"number": number,
+              "description": "Magic!"}
+    return render_template('suggested_route.html', **values)
+
+
 @app.route('/suggestedroute1')
 def suggestedroute1():
     return render_template('suggestedroute1.html')
