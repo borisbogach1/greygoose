@@ -8,6 +8,7 @@
 <h1>Создайте  свой маршрут</h1>
  <form action="" method="post">
        <fieldset>
+           {block
            <label for="startpoint">Название начальной точки</label>
            <input type="text" name="startpoint" placeholder="startpoint">
        </fieldset>
@@ -16,8 +17,8 @@
            <input type="text" name="point1" placeholder="point1">
        </fieldset>
        <fieldset>
-           <label for="point2">Вторая точка</label>
-           <input type="text" name="point2" placeholder="point2">
+           <label for="point2">Конечная точка</label>
+           <input type="text" name="endpoint" placeholder="endpoint">
        </fieldset>
        <button type="submit">Создать маршрут</button>
    </form>
