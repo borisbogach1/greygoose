@@ -75,7 +75,8 @@ def creareroute():
         # print(point11,point12,point13)
 
         
-        return routepoint
+
+        return str(routepoint)
     else:
         return render_template("createroute.html", form=form)
 
@@ -89,7 +90,7 @@ if __name__ == "__main__":
 
     d = {}
 
-    with open('datumnn.csv', "r") as csvfile:
+    with open('datumnn.csv', "r", encoding='utf-8') as csvfile:
         for i in range(100):
             try:
                 f = csvfile.readline().split(',')
