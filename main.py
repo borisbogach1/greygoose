@@ -2,7 +2,6 @@ from flask import Flask, render_template, request
 from forms import SugForm
 from createroute import create_map
 
-
 app = Flask(__name__)
 
 
@@ -29,40 +28,22 @@ def suggestedroutes():
 
 @app.route('/suggested_route/<int:number>')
 def suggested_route(number):
+    pretty_number = str(number // 10) + str(number % 10)
+    create_map('route_description/' + pretty_number + '.txt')
     values = {"number": number,
-              "description": "Magic!"}
+              "file_map": "../static/" + pretty_number + ".png"}
     return render_template('suggested_route.html', **values)
-
-
-@app.route('/suggestedroute1')
-def suggestedroute1():
-    return render_template('suggestedroute1.html')
-
-
-@app.route('/suggestedroute2')
-def suggestedroute2():
-    return render_template('suggestedroute2.html')
-
-
-@app.route('/suggestedroute3')
-def suggestedroute3():
-    return render_template('suggestedroute3.html')
-
-
-@app.route('/suggestedroute4')
-def suggestedroute4():
-    return render_template('suggestedroute4.html')
 
 
 @app.route('/createroute', methods=["GET", "POST"])
 def creareroute():
     form = SugForm
     if request.method == "POST":
-        points=[]
-        for i in range(2,11):
-            pointx='point'+str(i)
+        points = []
+        for i in range(2, 11):
+            pointx = 'point' + str(i)
             points.append(pointx)
-        routepoint=[]
+        routepoint = []
         startpoint = d[request.form["startpoint"]]
         point1 = d[request.form["point1"]]
         routepoint.append(startpoint)
@@ -70,7 +51,7 @@ def creareroute():
 
         for i in points:
             try:
-                currentpoint=d[request.form[i]]
+                currentpoint = d[request.form[i]]
                 routepoint.append(currentpoint)
             except:
                 pass
@@ -80,8 +61,6 @@ def creareroute():
         # point12=get_key(d,point1+"\n")
         # point13=get_key(d,point2+"\n")
         # print(point11,point12,point13)
-
-        
 
         return str(routepoint)
     else:
