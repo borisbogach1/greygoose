@@ -1,0 +1,782 @@
+<!doctype html>
+<html lang="ru" class="">
+<head>
+	<meta charset="UTF-8">
+	<!--  <meta name="viewport" content="width=1366">-->
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<link rel="shortcut icon" href="/favicon.ico" />
+	<link rel="apple-touch-icon" type="image/png" href="/icon.png">
+	<link rel="icon" type="image/png" href="/icon.png">
+	<title>Павильон №42. Центр национальных конных традиций (Музей лошади, Конный театр) на ВДНХ</title>
+		<link rel="dns-prefetch" href="https://mc.yandex.ru/" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="keywords" content="Карта ВДНХ, Карта, Места, Куда сходить, Еда, рестораны, Кафе, музей" />
+<meta name="description" content="Центр национальных конных традиций – это уникальная площадка мирового уровня для демонстрации конного достояния России, где гармонично сочетается спорт, культура, образование, коневодство и туризм...." />
+<link href="/bitrix/js/main/core/css/core.css?15730532693963" type="text/css" rel="stylesheet" />
+
+<script type="text/javascript" data-skip-moving="true">(function(w, d, n) {var cl = "bx-core";var ht = d.documentElement;var htc = ht ? ht.className : undefined;if (htc === undefined || htc.indexOf(cl) !== -1){return;}var ua = n.userAgent;if (/(iPad;)|(iPhone;)/i.test(ua)){cl += " bx-ios";}else if (/Android/i.test(ua)){cl += " bx-android";}cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");cl += w.devicePixelRatio && w.devicePixelRatio >= 2? " bx-retina": " bx-no-retina";var ieVersion = -1;if (/AppleWebKit/.test(ua)){cl += " bx-chrome";}else if ((ieVersion = getIeVersion()) > 0){cl += " bx-ie bx-ie" + ieVersion;if (ieVersion > 7 && ieVersion < 10 && !isDoctype()){cl += " bx-quirks";}}else if (/Opera/.test(ua)){cl += " bx-opera";}else if (/Gecko/.test(ua)){cl += " bx-firefox";}if (/Macintosh/i.test(ua)){cl += " bx-mac";}ht.className = htc ? htc + " " + cl : cl;function isDoctype(){if (d.compatMode){return d.compatMode == "CSS1Compat";}return d.documentElement && d.documentElement.clientHeight;}function getIeVersion(){if (/Opera/i.test(ua) || /Webkit/i.test(ua) || /Firefox/i.test(ua) || /Chrome/i.test(ua)){return -1;}var rv = -1;if (!!(w.MSStream) && !(w.ActiveXObject) && ("ActiveXObject" in w)){rv = 11;}else if (!!d.documentMode && d.documentMode >= 10){rv = 10;}else if (!!d.documentMode && d.documentMode >= 9){rv = 9;}else if (d.attachEvent && !/Opera/.test(ua)){rv = 8;}if (rv == -1 || rv == 8){var re;if (n.appName == "Microsoft Internet Explorer"){re = new RegExp("MSIE ([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}else if (n.appName == "Netscape"){rv = 11;re = new RegExp("Trident/.*rv:([0-9]+[\.0-9]*)");if (re.exec(ua) != null){rv = parseFloat(RegExp.$1);}}}return rv;}})(window, document, navigator);</script>
+
+
+<link href="https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.css" type="text/css"  rel="stylesheet" />
+<link href="/local/css/mapbox/style.css?166038310032050" type="text/css"  rel="stylesheet" />
+<link href="/yo_dev/map/style.css?16645338345625" type="text/css"  rel="stylesheet" />
+<link href="/local/components/vdnh/events/templates/places/style.css?16644369931933" type="text/css"  rel="stylesheet" />
+<link href="/local/components/vdnh/events.filter/assets/css/events.css?16751557867844" type="text/css"  rel="stylesheet" />
+<link href="/local/templates/v3_new_header/js/jquery.fancybox.css?163835108017499" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/v3_new_header/js/slick.css?16383510801776" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/v3_new_header/icons.css?16765487425419" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/v3_new_header/header.css?16740297866714" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/v3_new_header/styles.css?164933865111880" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<link href="/local/templates/v3_new_header/template_styles.css?1675076717159028" type="text/css"  data-template-style="true"  rel="stylesheet" />
+
+
+
+
+
+
+
+<meta property="og:url" content="https://vdnh.ru/places/pavilon-42-zhivotnovodstvo/" />
+<meta property="og:title" content="Павильон №42. Центр национальных конных традиций (Музей лошади, Конный театр)" />
+<meta property="og:image" content="https://vdnh.ru/upload/share/s1/places-287.jpg" />
+<meta property="og:description" content="Центр национальных конных традиций – это уникальная площадка мирового уровня для демонстрации конного достояния России, где гармонично сочетается спорт, культура, образование, коневодство и туризм...." />
+
+
+
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta property="og:type" content="article" />
+		
+	<!-- vk -->
+	<noscript><img src="https://vk.com/rtrg?p=VK-RTRG-1469670-6kfwg" style="position:fixed; left:-999px;" alt=""/></noscript>
+	<!-- vk -->
+		
+		
+	
+	<!-- Matomo -->
+		<!-- End Matomo Code -->
+</head>
+
+
+<body class="inner-body body--places maped">
+<div style="position: fixed;z-index: 10000000; width: 100%;">
+	</div>
+<div class="overlay"></div>
+<div class="global">
+	<header style="padding: 0px 0 0px !important;">
+		<div class="header-inner" style="top: 10px !important;">
+
+							<a href="/" class="logo"></a>
+				<div class="header-menu"><a href="https://katok.vdnh.ru/"		 target="_blank" >Каток</a><a href="/events/"		 >События</a><a href="/visitors/?utm_source=button&utm_medium=banner&utm_campaign=vdnh_promo"		 >Посетителям</a><a href="/selections/kupit-bilet/"		 >Билеты</a><a href="/news/"		 >Новости</a><a href="/contacts/"		 >Контакты</a><a href="/" data-menu-more>Еще...</a>				</div>
+						
+			<div class="header-meta">
+				<div class="header-lang">
+				<div id="rasaWebchatPro"></div>
+			<!-- <div class="rasa__wrap">
+			<div class="rasa__container">
+     <div id="rasaWebchatPro"></div>
+	 </div>
+	 </div> -->
+
+				<a target="_blank" href="/cn/">简体中文</a>				<a target="_blank" href="/en/">EN</a>							</div><a href="/search/" class="header-search-link" data-search-trigger></a>
+			</div>
+			<form action="/search/" method="get" class="header-search">
+				<input type="text" value="" placeholder="Поиск по местам и событиям" autocomplete="off" name="q">
+				<div class="header-search-clear" data-search-clear></div>
+				<div class="header-search-close" data-search-trigger="close">Отмена</div>
+			</form>
+			
+			<div class="header-burger" data-menu-more><span></span></div>
+			<div class="header-search-results"></div>
+			<div class="menu">
+				<div class="menu-top">
+											<div class="menu-left">
+							<div class="menu-items"><a href="https://katok.vdnh.ru/" 
+ target="_blank"  class="menu-item menu-item--mobile">Каток</a><a href="/events/" 
+  class="menu-item">События</a><a href="/places/" 
+  class="menu-item active">Места</a><a href="/specials/muzeynyy-gorod-vdnkh/" 
+  class="menu-item">Музейный город</a><a href="/specials/excursions/" 
+  class="menu-item">Экскурсии</a><a href="/visitors/" 
+  class="menu-item">Посетителям</a><a href="/selections/kupit-bilet/" 
+  class="menu-item menu-item--mobile">Купить билет</a><a href="/routes/" 
+  class="menu-item">Маршруты</a><a href="/gastro/" 
+  class="menu-item">Гастропутеводитель</a><a href="/map/" 
+  class="menu-item">Карта</a><a href="/selections/" 
+  class="menu-item">Подборки</a><a href="/visitors/information-on-accessibility/" 
+  class="menu-item">Доступная среда на ВДНХ</a><a href="/visitors/volonterskiy-korpus-vdnkh/" 
+  class="menu-item">Волонтерский корпус</a><a href="https://hh.ru/employer/52481" 
+ target="_blank"  class="menu-item">Работа на ВДНХ</a><a href="http://official.vdnh.ru/rent/" 
+ target="_blank"  class="menu-item">Арендаторам</a><a href="/visitors/loyalty/" 
+  class="menu-item menu-item--mobile">Друзья ВДНХ</a><a href="/news/" 
+  class="menu-item menu-item--mobile">Новости</a><a href="/contacts/" 
+  class="menu-item menu-item--mobile">Контакты</a>							</div>
+						</div>
+					
+						<div class="menu-right"><div class="menu-sites" id="menu-sites">
+    <div class="menu-sites-title">Все сайты ВДНХ</div><div class="menu-sites-list"><a href="http://cosmos.vdnh.ru" target="_blank" class="menu-site">
+            <span class="menu-site__icon" style="background-image: url('/upload/iblock/4ae/4ae930acfd72fc0238652ee396ffe0ac.png')"></span>
+            <span class="menu-site__title">Центр «Космонавтика и&nbsp;авиация»</span>
+            <span class="menu-site__link">cosmos.vdnh.ru</span>
+            </a><a href="http://slovo.vdnh.ru" target="_blank" class="menu-site">
+            <span class="menu-site__icon" style="background-image: url('/upload/iblock/60b/60b56f16dc56ec9e35434f20fb12bc0e.png')"></span>
+            <span class="menu-site__title">Музей славянской письменности «Слово»</span>
+            <span class="menu-site__link">slovo.vdnh.ru</span>
+            </a><a href="http://znanie.vdnh.ru" target="_blank" class="menu-site">
+            <span class="menu-site__icon" style="background-image: url('/upload/iblock/df5/df57a984c33d699a7809e55ad70efa4e.svg')"></span>
+            <span class="menu-site__title">Образовательная программа</span>
+            <span class="menu-site__link">znanie.vdnh.ru</span>
+            </a><a href="http://expo.vdnh.ru" target="_blank" class="menu-site">
+            <span class="menu-site__icon" style="background-image: url('/upload/iblock/365/365060c31c7d0ecacfab2550840c1e8e.svg')"></span>
+            <span class="menu-site__title">ВДНХ ЭКСПО</span>
+            <span class="menu-site__link">expo.vdnh.ru</span>
+            </a><a href="http://hotels.vdnh.ru" target="_blank" class="menu-site">
+            <span class="menu-site__icon" style="background-image: url('/upload/iblock/9ed/9edd117d13481a0968c243eee0c1335c.png')"></span>
+            <span class="menu-site__title">Размещение в&nbsp;гостиницах</span>
+            <span class="menu-site__link">hotels.vdnh.ru</span>
+            </a><a href="http://vdnh.ru/russpass" target="_blank" class="menu-site">
+            <span class="menu-site__icon" style="background-image: url('/upload/iblock/4f8/4f8d3364e09defbb6ba589977b88464f.png')"></span>
+            <span class="menu-site__title">Russpass</span>
+            <span class="menu-site__link">vdnh.ru/russpass</span>
+            </a><a href="http://media.vdnh.ru" target="_blank" class="menu-site">
+            <span class="menu-site__icon" style="background-image: url('/upload/iblock/a3d/a3de9f3ce3fbe9dc6ff6acb957892a3c.jpeg')"></span>
+            <span class="menu-site__title">Медиатека Музея ВДНХ</span>
+            <span class="menu-site__link">media.vdnh.ru</span>
+            </a><a href="http://arhiv.vdnh.ru" target="_blank" class="menu-site">
+            <span class="menu-site__icon" style="background-image: url('/upload/iblock/b0a/b0a00f13226526105d2e9e20aecba50d.png')"></span>
+            <span class="menu-site__title">Архивно-библиотечный фонд ВДНХ</span>
+            <span class="menu-site__link">arhiv.vdnh.ru</span>
+            </a><a href="http://remesla.vdnh.ru" target="_blank" class="menu-site">
+            <span class="menu-site__icon" style="background-image: url('/upload/iblock/35d/35deb2b0b365fda635ad31d5f454c028.svg')"></span>
+            <span class="menu-site__title">Парк ремесел</span>
+            <span class="menu-site__link">remesla.vdnh.ru</span>
+            </a><a href="http://official.vdnh.ru" target="_blank" class="menu-site">
+            <span class="menu-site__icon" style="background-image: url('/upload/iblock/d58/d586376eaadd727950dc8654e130fac9.svg')"></span>
+            <span class="menu-site__title">Официально</span>
+            <span class="menu-site__link">official.vdnh.ru</span>
+            </a><a href="http://shop.vdnh.ru" target="_blank" class="menu-site">
+            <span class="menu-site__icon" style="background-image: url('/upload/iblock/f14/f1415d2651db08a63a7e29bd9106bb67.png')"></span>
+            <span class="menu-site__title">Интернет-магазин</span>
+            <span class="menu-site__link">shop.vdnh.ru</span>
+            </a></div></div></div>
+									</div>
+				<div class="menu-bottom">
+					<div class="menu-left">
+						<div class="menu-phone"><a href="tel:+74955443400">+7 (495) 544-34-00</a></div>
+						<div class="menu-email"><a href="mailto:info@vdnh.ru">info@vdnh.ru</a></div>
+						<div class="menu-socials">
+						<a target="_blank" href="//t.me/vdnh_moscow" class="social social--tg">Телеграм</a>
+						<a target="_blank" href="https://vk.com/vdnh" class="social social--vk">VK</a>
+						<a target="_blank" href="https://ok.ru/vdnh" class="social social--ok">Одноклассники</a>
+						<a target="_blank" href="https://zen.yandex.ru/vdnh" class="social social--yz">Дзен</a>
+					</div>
+					</div>
+					<div class="menu-right">
+						<div class="partners">
+							<div class="partners-title">Стратегические партнеры ВДНХ</div>
+							<a target="_blank" href="http://mironline.ru/" class="partner partner--mir">МИР</a>
+							<a target="_blank" href="https://msk.tele2.ru" class="partner partner--tele2">Tele2</a>
+
+						</div>					</div>
+				</div>
+			</div>
+
+		</div>
+			</header>
+	<div class="content">
+				 
+
+<div class="v-elements">
+	
+<div class="elements-content">
+
+	<div class="top content-top tansition--left" style="display: none;">
+		<div class="wrap">
+			<h1>Места</h1>
+			<div data-map-mobile class="on-map">На карте</div>
+			
+<div class="v__filter" 
+	 data-filter-name="places" 
+	 data-sef-folder="/places/" 
+	 data-ajax-history="Y">
+	 
+	<div class="v__filter--fast js__filter--fast">
+		<div class="v__filter--top">
+			<div class="v__filter--trigger" data-trigger="filter" data-action="open">
+				<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<path d="M3 17V19H9V17H3ZM3 5V7H13V5H3ZM13 21V19H21V17H13V15H11V21H13ZM7 9V11H3V13H7V15H9V9H7ZM21 13V11H11V13H21ZM15 9H17V7H21V5H17V3H15V9Z" fill="currentColor"/>
+				</svg>
+				<span>
+					Показать фильтры 
+				</span>
+			</div>
+			<div class="v__filter--trigger v__trigger--clear js__filter--cancel js__filter--clear">
+				<svg viewBox="0 0 48 48" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+				<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0012 46L46.9668 42.0344L31.273 26.3125L28.45 23.5L31.2731 20.6875L46.9668 4.96562L43.0012 1L23.9834 20.0178L4.96562 1L1 4.96563L16.6937 20.6875L19.5168 23.5L16.6938 26.3125L1 42.0344L4.96562 46L23.9834 26.9822L43.0012 46Z"/>
+				</svg>
+				<span>Cбросить</span>
+			</div>
+			
+							<div class="v__filter--trigger v__filter--sort js__filter--sort">
+					<span class="v__filtersort--title" id="trigger_sort_wg1l24"><span>По умолчанию</span><svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M7.11703 8.29508L11.707 12.8751L16.297 8.29508L17.707 9.70508L11.707 15.7051L5.70703 9.70508L7.11703 8.29508Z" fill="white"/></svg></span><div class="v__filtersort--items" id="items_sort_wg1l24"><input id="item_sort_sort_wg1l24" type="radio" name="sort" value="sort" checked><label for="item_sort_sort_wg1l24" class="v__filtersort--item">По умолчанию</label><input id="item_date_sort_wg1l24" type="radio" name="sort" value="date"><label for="item_date_sort_wg1l24" class="v__filtersort--item">По дате</label><input id="item_name_sort_wg1l24" type="radio" name="sort" value="name"><label for="item_name_sort_wg1l24" class="v__filtersort--item">По названию</label><input id="item_recommend_sort_wg1l24" type="radio" name="sort" value="recommend"><label for="item_recommend_sort_wg1l24" class="v__filtersort--item">По рекомендации</label></div>				</div>
+					</div>
+		<div class="v__filter--tags js__filter--tags">
+			<label class="v__filter--tag js__filter--tag v__tag--default " data-target="type[]" data-value="restaurant">Еда</label><label class="v__filter--tag js__filter--tag v__tag--default " data-target="type[]" data-value="hire">Прокат</label><label class="v__filter--tag js__filter--tag v__tag--default " data-target="selections" data-value="kupit-bilet">Купить билет</label><label class="v__filter--tag js__filter--tag v__tag--default " data-target="selections" data-value="muzeynyy-gorod">Музейный город</label>		</div>
+	</div>
+	
+	<div class="v__filter--full js__filter--full">
+		
+		<form name="places" action="/places/pavilon-42-zhivotnovodstvo/" method="get" class="v__filter--form js__filter--form" data-is-ajax="Y">
+			
+			<input type="hidden" name="filter" value="Y">
+			
+							<input type="hidden" name="sort" value="">
+						
+			<div class="v__filter--close" data-trigger="filter" data-action="close">
+				<svg viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<path fill-rule="evenodd" clip-rule="evenodd" d="M43.0012 46L46.9668 42.0344L31.273 26.3125L28.45 23.5L31.2731 20.6875L46.9668 4.96562L43.0012 1L23.9834 20.0178L4.96562 1L1 4.96563L16.6937 20.6875L19.5168 23.5L16.6938 26.3125L1 42.0344L4.96562 46L23.9834 26.9822L43.0012 46Z" fill="#D32934"/>
+				</svg>
+			</div>
+	
+			<div class="v__filter--wrap">
+				
+				<div class="h1">Фильтры </div>
+				
+				<div class="v__filter--blocks">
+									<div class="v__filter--block">
+						<div class="v__block--title">Категории</div>
+						<div class="v__block--labels">
+																<input id="v__filtertype[]atm" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="atm" /><label for="v__filtertype[]atm" class="v__filter--label">Банкомат</label>																<input id="v__filtertype[]vending" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="vending" /><label for="v__filtertype[]vending" class="v__filter--label">Вендинговый аппарат</label>																<input id="v__filtertype[]entrance" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="entrance" /><label for="v__filtertype[]entrance" class="v__filter--label">Вход</label>																<input id="v__filtertype[]playground" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="playground" /><label for="v__filtertype[]playground" class="v__filter--label">Детская площадка</label>																<input id="v__filtertype[]restaurant" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="restaurant" /><label for="v__filtertype[]restaurant" class="v__filter--label">Еда</label>																<input id="v__filtertype[]green-zone" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="green-zone" /><label for="v__filtertype[]green-zone" class="v__filter--label">Зеленая зона</label>																<input id="v__filtertype[]info" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="info" /><label for="v__filtertype[]info" class="v__filter--label">Инфоцентр</label>																<input id="v__filtertype[]workshop" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="workshop" /><label for="v__filtertype[]workshop" class="v__filter--label">Мастерская</label>																<input id="v__filtertype[]museum" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="museum" /><label for="v__filtertype[]museum" class="v__filter--label">Музей</label>																<input id="v__filtertype[]bus" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="bus" /><label for="v__filtertype[]bus" class="v__filter--label">Остановка</label>																<input id="v__filtertype[]pavilion" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="pavilion" /><label for="v__filtertype[]pavilion" class="v__filter--label">Павильон</label>																<input id="v__filtertype[]parking" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="parking" /><label for="v__filtertype[]parking" class="v__filter--label">Парковка</label>																<input id="v__filtertype[]picnic" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="picnic" /><label for="v__filtertype[]picnic" class="v__filter--label">Пикник</label>																<input id="v__filtertype[]hire" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="hire" /><label for="v__filtertype[]hire" class="v__filter--label">Прокат</label>																<input id="v__filtertype[]pond" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="pond" /><label for="v__filtertype[]pond" class="v__filter--label">Пруд</label>																<input id="v__filtertype[]entertainment" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="entertainment" /><label for="v__filtertype[]entertainment" class="v__filter--label">Развлечения</label>																<input id="v__filtertype[]sports-ground" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="sports-ground" /><label for="v__filtertype[]sports-ground" class="v__filter--label">Спорт</label>																<input id="v__filtertype[]souvenirs" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="souvenirs" /><label for="v__filtertype[]souvenirs" class="v__filter--label">Сувениры</label>																<input id="v__filtertype[]taxi" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="taxi" /><label for="v__filtertype[]taxi" class="v__filter--label">Такси</label>																<input id="v__filtertype[]wc" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="wc" /><label for="v__filtertype[]wc" class="v__filter--label">Туалеты</label>																<input id="v__filtertype[]fountain" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="fountain" /><label for="v__filtertype[]fountain" class="v__filter--label">Фонтан</label>																<input id="v__filtertype[]temple" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="temple" /><label for="v__filtertype[]temple" class="v__filter--label">Храм</label>																<input id="v__filtertype[]Reading-room" class="v__filter--input js__filter--input" type="checkbox" name="type[]" value="Reading-room" /><label for="v__filtertype[]Reading-room" class="v__filter--label">Читальня</label>													</div>
+					</div>
+									<div class="v__filter--block">
+						<div class="v__block--title">Удобства</div>
+						<div class="v__block--labels">
+																<input id="v__filterfacilities[]wifi" class="v__filter--input js__filter--input" type="checkbox" name="facilities[]" value="wifi" /><label for="v__filterfacilities[]wifi" class="v__filter--label">Wi-fi</label>																<input id="v__filterfacilities[]friends-vdnh" class="v__filter--input js__filter--input" type="checkbox" name="facilities[]" value="friends-vdnh" /><label for="v__filterfacilities[]friends-vdnh" class="v__filter--label">Программа лояльности «Друзья ВДНХ»</label>																<input id="v__filterfacilities[]cardpay" class="v__filter--input js__filter--input" type="checkbox" name="facilities[]" value="cardpay" /><label for="v__filterfacilities[]cardpay" class="v__filter--label">Оплата картой</label>													</div>
+					</div>
+									<div class="v__filter--block">
+						<div class="v__block--title">Подборки</div>
+						<div class="v__block--labels">
+																<input id="v__filterselectionskupit-bilet" class="v__filter--input js__filter--input" type="radio" name="selections" value="kupit-bilet" /><label for="v__filterselectionskupit-bilet" class="v__filter--label">Купить билет</label>																<input id="v__filterselectionsmuzeynyy-gorod" class="v__filter--input js__filter--input" type="radio" name="selections" value="muzeynyy-gorod" /><label for="v__filterselectionsmuzeynyy-gorod" class="v__filter--label">Музейный город</label>																<input id="v__filterselectionssport" class="v__filter--input js__filter--input" type="radio" name="selections" value="sport" /><label for="v__filterselectionssport" class="v__filter--label">Спорт</label>													</div>
+					</div>
+								</div>
+				
+			</div>
+			
+			<div class="v__filter--buttons">
+				<button type="button" class="v__filter--button v__filter--clear js__filter--clear">
+					Сбросить				</button><button type="submit" class="v__filter--button v__filter--apply">
+					Применить				</button>
+			</div>
+		</form>
+	</div>
+</div>		</div>
+	</div>
+		
+	<div class="elements-selections-container tansition--left" style="display: none;">
+		
+<div class="events-selections" data-when-visible>
+    <div data-slider data-slider-nav="on-hover" data-slider-adjust><div class="blank-slide"></div>			<a href="/selections/vdnkh-zimnyaya/" class="events-selection">
+            	<span class="events-selection-title">ВДНХ зимняя</span>
+            	<span class="events-selection-desc">21 событие • 14 мест</span>
+            	<img src="/upload/resize_cache/iblock/d74/380_240_2/d74b5318b6ae26e58f3bd185e134e3f0.jpeg" loading="lazy" alt="">
+            </a>			<a href="/selections/muzeynyy-gorod/" class="events-selection">
+            	<span class="events-selection-title">Музейный город</span>
+            	<span class="events-selection-desc">21 событие • 14 мест</span>
+            	<img src="/upload/resize_cache/iblock/b6b/380_240_2/b6b535790dc9eb42290d1e6bd246e40e.jpg" loading="lazy" alt="">
+            </a>			<a href="/selections/ekskursii-po-vdnkh/" class="events-selection">
+            	<span class="events-selection-title">Экскурсии по&nbsp;ВДНХ</span>
+            	<span class="events-selection-desc">21 событие • 14 мест</span>
+            	<img src="/upload/resize_cache/iblock/6b2/380_240_2/6b20a038acf29f00f4263ff6219de180.jpeg" loading="lazy" alt="">
+            </a>			<a href="/selections/pushkinskaya-karta/" class="events-selection">
+            	<span class="events-selection-title">Пушкинская карта</span>
+            	<span class="events-selection-desc">21 событие • 14 мест</span>
+            	<img src="/upload/resize_cache/iblock/55f/380_240_2/55f2672087c219ac3b97582230e1542b.jpg" loading="lazy" alt="">
+            </a>			<a href="/selections/kupit-bilet/" class="events-selection">
+            	<span class="events-selection-title">Купить билет</span>
+            	<span class="events-selection-desc">21 событие • 14 мест</span>
+            	<img src="/upload/resize_cache/iblock/175/380_240_2/175c79f563b1fb704c4848ab4888a260.jpg" loading="lazy" alt="">
+            </a>			<a href="/selections/vzglyad-v-proshloe/" class="events-selection">
+            	<span class="events-selection-title">Проект «ВДНХ. Взгляд в&nbsp;прошлое»</span>
+            	<span class="events-selection-desc">21 событие • 14 мест</span>
+            	<img src="/upload/resize_cache/iblock/743/380_240_2/74374073f165213c99cb2d8b0489ece6.jpg" loading="lazy" alt="">
+            </a>		</div>
+</div>
+	</div> 
+
+	<div class="tansition--left" data-ajax-container>
+
+
+    <div class="detail wrap">
+        <div class="inner-top">
+            <div class="wrap">
+                <div class="panel">
+
+					<span itemscope itemtype="https://schema.org/BreadcrumbList">
+						<span itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                            <a href="/places/" data-back-link class="panel-back" itemprop="item">
+                                <span itemprop="name">Назад</span>
+                            </a>
+                            <meta itemprop="position" content="0" />
+                        </span>
+                    </span>
+
+                    <a href="#share" class="panel-share">Поделиться</a>
+                    <div id="share" class="popup popup--share"  data-url="https%3A%2F%2Fvdnh.ru%2Fplaces%2Fpavilon-42-zhivotnovodstvo%2F"><div class="title">Поделиться</div><div class="share-links"><div class="share-link share-link--vk"><a target="_blank" href="http://vkontakte.ru/share.php?url=https%3A%2F%2Fvdnh.ru%2Fplaces%2Fpavilon-42-zhivotnovodstvo%2F" class="social--vk">Вконтакте</a></div></div><div class="popup-close" data-fancybox-close></div></div>                </div>
+            </div>
+        </div>
+	<span   itemscope itemtype="https://schema.org/Place">
+        <div class="detail-gallery" data-slider data-slider-nav="on-hover" data-slider-adjust>                <a href="/upload/resize_cache/iblock/b6c/1000_1000_1/b6c4e451081f60a3998e673d93380da9.JPG" data-fancybox="gallery">
+                   <img src="/upload/resize_cache/iblock/b6c/1000_424_1/b6c4e451081f60a3998e673d93380da9.JPG" alt="" >
+                </a>
+               
+                       </div>
+        <div class="wrap wrap--detail">
+            <div class="detail-panel">
+                <a class="detail-type"
+                         href="/places/?filter=Y&type[]=194">Павильон</a>                <a href="#"
+                   class="favorite-button"
+                   data-favorite="287"
+                   data-favorite-type="places"><span></span>В подборку</a>
+            </div>
+            <h1 itemprop="name">Павильон <nobr>№42</nobr>. Центр национальных конных традиций (Музей лошади, Конный театр)</h1>
+
+            <div class="detail-subtitle"></div>
+            <div class="detail-buttons">
+                
+                                        <button data-vdnh-tickets="36592" class="ticket__button--card js__ticket--button">
+                            Купить билет                        </button>                   
+                                    <a href="/route/?path=287" class="detail-button detail-button--route"
+                       data-path-trigger="287">Маршрут</a>
+                                
+                <button type="button" class="detail-button detail-button--map" data-map-mobile>
+                   На карте               </button>
+            </div>                        <div data-js-tabs>
+                <div class="main-tabs">
+                    <div class="main-tab active" data-js-tab="0">Описание</div>
+                    <div class="main-tab" data-js-tab="1">История</div>
+                </div>
+                <div class="main-panes">
+                                        <div class="main-pane active" data-js-pane="0">
+                                                    <div class="detail-block detail-block--info">
+                                <div class="title">О месте</div>
+                                <div class="detail-text" itemprop="description">
+                                                                            <p>
+	 Центр национальных конных традиций – это уникальная площадка мирового уровня для демонстрации конного достояния России, где гармонично сочетается спорт, культура, образование, коневодство и&nbsp;туризм.
+</p>
+<p>
+	 Целью проекта является возрождение деятельности специализированных отраслевых павильонов ВДНХ и&nbsp;создание туристической «точки притяжения», реализация социальных и&nbsp;развивающих программ патриотической направленности для детей и&nbsp;молодежи, создание площадки для проведения турниров и&nbsp;мероприятий конной направленности международного уровня и&nbsp;развития национального конного искусства.
+</p>
+<p>
+	 Исторические павильоны <nobr>№41</nobr>, 42, 43, построенные для коневодства и&nbsp;животноводства, и&nbsp;выводной круг не поменяли своего назначения, отремонтированы и&nbsp;приспособлены под конюшни, места для проведения шоу-программ, занятий конным спортом, конных аукционов, профильные семинары и&nbsp;конференции.
+</p>
+<p>
+	 Также предусмотрено строительство специализированного конного манежа с&nbsp;трибунами для зрителей на&nbsp;508 посадочных мест и&nbsp;VIP-ложами на&nbsp;12 посадочных мест площадью 7774 кв.м., предназначенного для круглогодичной работы, проведения учебно-тренировочных занятий, соревнований любого уровня, конных программ и&nbsp;шоу. Дополнительно построены некапитальные сооружения: левады, тренажер для движения лошадей. <br>
+</p>
+<p>
+	 В декабре 2022 года в&nbsp;павильоне <nobr></nobr><nobr><nobr>№42</nobr></nobr> открылся первый в&nbsp;России <a href="https://vdnh.ru/events/muzey-loshadi-v-tsentre-natsionalnykh-konnykh-traditsiy/">«Музей лошади»</a>. Интерактивность – одно из&nbsp;главных преимуществ музея – современный подход к&nbsp;разработке экспозиции и&nbsp;мультимедийное оснащение делают его уникальным в&nbsp;России в&nbsp;данной тематике.
+</p>
+<p>
+	 Музей включает восемь выставочных залов, где можно познакомиться со всеми этапами эволюции лошадей, узнать факты из&nbsp;биологии животных, попасть в&nbsp;конюшенную мастерскую, а&nbsp;также больше узнать о профессиях конного мира и&nbsp;мировых школах верховой езды и&nbsp;увидеть репродукции картин и&nbsp;скульптур, центральной фигурой в&nbsp;которых выступает лошадь.
+</p>
+
+
+ <!--Представительство Кремлевской школы верховой езды. Павильон <nobr>№42</nobr> «Животноводство» (бывший Манеж)--> <br>
+ Также в&nbsp;настоящий момент можно посетить экскурсию <a href="https://vdnh.ru/places/pavilon-43-konevodstvo/">в павильоне <nobr>№43</nobr></a> - показательная конюшня - уютная, светлая, оборудованная по&nbsp;мировым стандартам, вместимостью на&nbsp;43 денника. <br>
+ <br>
+ Ряды колонн, разделяющие конюшню на&nbsp;три части: справа и&nbsp;слева от&nbsp;прохода, располагаются денники для лошадей, а&nbsp;цилиндрический сводчатый потолок в&nbsp;проходе визуально увеличивает пространство. В павильоне имеется главный зал, соединяющий зоны денников, и&nbsp;оформленный историческими барельефами по&nbsp;верхней части, которые можно увидеть во время экскурсии.<br>
+ <br>
+ &nbsp;На конюшне проводится экскурсионная программа с&nbsp;демонстрацией пород лошадей, которая позволит:<br>
+<ul>
+	<li>познакомиться с&nbsp;устройством современной конюшни;</li>
+	<li>углубиться в&nbsp;историю коневодства;</li>
+	<li>познакомиться с&nbsp;правилами содержания лошади, рационом её питания и&nbsp;дневным распорядком дня;</li>
+	<li>увидеть снаряжение для лошади.</li>
+</ul>                                        <div class="main-more" data-text-more>
+                                            <div class="wrap">Читать дальше</div>
+                                        </div>
+                                        <div class="detail-text-detail"><h2>Когда построен, кто автор</h2>
+<p>
+	 Построен в&nbsp;1954 году. Архитектор В.М. Маргулис. <br>
+	 В советские годы в&nbsp;павильоне располагался манеж для публичной экспертизы животных, проведения лекций и&nbsp;чтения докладов.
+</p>
+<h2>Смена названия</h2>
+<p>
+	 Не изменялось.
+</p>
+<h2>Статус</h2>
+<p>
+	 Исторически ценный градоформирующий объект.
+</p></div>
+                                        </div>
+                            </div>
+                                                                                <div class="detail-block detail-block--events">                                <div class="title">События на этой площадке</div>                                <div class="detail-events">                                <div id="data-show-events"><a href="/events/muzey-loshadi-v-tsentre-natsionalnykh-konnykh-traditsiy/"
+                                         class="route-block-item">
+                                    <span class="route-block-type">Развлечения</span>
+                                    <span class="route-block-title">«Музей лошади» в&nbsp;Центре национальных конных традиций</span>
+                                    <span class="block-favorite" data-favorite="35082" data-favorite-type="events"></span>
+                                    <span class="route-block-time">Сегодня до 20:00</span>
+                                    <span class="route-block-pic"
+                                          style="background-image: url(/upload/resize_cache/iblock/378/320_340_2/3789cd5cd813f5267a672bff5606b598.jpg)"></span>
+                                    </a><a href="/events/konnyy-teatr-kremlevskoy-shkoly-verkhovoy-ezdy/"
+                                         class="route-block-item">
+                                    <span class="route-block-type">Развлечения</span>
+                                    <span class="route-block-title">Конный театр Кремлевской школы верховой езды</span>
+                                    <span class="block-favorite" data-favorite="35555" data-favorite-type="events"></span>
+                                    <span class="route-block-time"></span>
+                                    <span class="route-block-pic"
+                                          style="background-image: url(/upload/resize_cache/iblock/c63/320_340_2/c63056b43bcb07e4eeadfc7e43732664.jpg)"></span>
+                                    </a></div></div></div>
+                                                                                            <div class="detail-block">
+                            <div class="title">Контакты</div>
+                            <div class="detail-table">                                    <div class="detail-table__row">
+                                    <div class="detail-table__line">
+                                        <div class="detail-table__left">Телефон</div>
+                                        <div class="detail-table__right"><div><a href="tel:+74955443400" itemprop="telephone">+7(495)544-34-00</a></div></div>
+                                    </div></div>                                    <div class="detail-table__row">
+                                    <div class="detail-table__line">
+                                        <div class="detail-table__left">E-mail</div>
+                                        <div class="detail-table__right"><div><a href="mailto:info@vdnh.ru">info@vdnh.ru</a></div></div>
+                                    </div></div>                                    <div class="detail-table__row">
+                                    <div class="detail-table__line">
+                                        <div class="detail-table__left">Адрес</div>
+                                        <div class="detail-table__right"><div itemprop="address">Проспект Мира, 119, павильон №42</div></div>
+                                    </div></div>                            </div>
+                            </div>                    </div>
+                                        <div class="main-pane" data-js-pane="1">
+                        <div class="detail-history"><h2>История создания</h2>
+<!-- <p>
+ К открытию ВСХВ 1954 года на месте павильонов «Кролиководство» и «Шелководство» было построено три здания для экспозиции «Коневодство» — павильоны №40, 41 и 43. Выдержанные в стилистике палладианства, они возводились в традициях конных усадебных дворов России XVIII–XIX веков.
+</p>
+<p>
+К этому комплексу также относился спроектированный В.М. Маргулисом манеж (ныне павильон №42 «Животноводство»). В нем проводились смотры и показы сельскохозяйственных животных, но приоритет, безусловно, отдавался лошадям. Так, вход в манеж украшали памятники коням Квадрату (орловская рысистая порода) и Символу (буденновская порода). Кстати, посетители Выставки и сегодня могут видеть скульптуру лошади, установленную в 1939 году между выводным кругом и павильоном №55.
+</p> -->
+
+<p>
+Возведенный к обновленной Выставке 1954 года павильон являлся частью экспозиции «Коневодство», построенной в традициях конных усадебных дворов России XVIII–XIX веков. Круглое купольное сооружение выстроено с применением элементов классической архитектуры. Монументальный портик с арочными проемами спроектирован под влиянием Палладио, напоминая виллу Сарачено в Виченце. Надпись на фронтоне, выполненная древнеримским шрифтом, дополняла классический образ.
+</p>
+<p>
+В дальнейшем здание манежа подверглось реконструкции, в ходе которой на павильоне был демонтирован входной портик, а на его месте появился стеклянный вестибюль в стиле советского модернизма.
+</p>
+<p>
+К моменту начала работ по капитальному ремонту здания в 2019 году были утрачены некоторые детали фасадного декора, в частности отдельные элементы рельефных гирлянд, выполненных из железобетона, которые опоясывали по периметру первый ярус цилиндрического объема в уровне карниза. В ходе производственных работ оставшиеся части гирлянд были демонтированы. Наиболее сохранившиеся фрагменты после реставрационных мероприятий будут возвращены на свои места, недостающие части воссоздадут из аналогичного материала по натурным образцам.
+</p>
+
+<h2>История экспозиций</h2>
+ В каждом из трех основных павильонов «Коневодство» демонстрировались определенные породы: в 40-м — местного значения, в 41-м — верховые, в 43-м — рысистые и тяжеловозные. На ВСХВ 1954 года было представлено 200 лошадей 29 пород.&nbsp;<br>
+ <br>
+ Особое внимание в экспозиции 1960-х годов уделялось конному спорту, что было связано, в частности, с возобновлением выпуска журнала «Коневодство и конный спорт» при непосредственном участии маршала С.М. Буденного. За активную работу в этом периодическом издании в 1967 году маршал был награжден золотой медалью ВДНХ СССР.&nbsp;<br>
+ <br>
+В состав экспозиции «Коневодство» также входил небольшой восьмигранный павильон-навес (строение 550), где демонстрировались верблюды астраханской породы.&nbsp;</div>
+                    </div>
+                </div>
+            </div>
+                </div>
+    </div>
+
+    <div class="detail-similar">
+        <div class="wrap">
+            <div class="title">Другие места</div>
+        </div>
+        <div class="similar-events" data-slider data-slider-adjust data-slider-nav="on-hover"><a href="/places/shakhmatnyy-klub/" class="event-block" data-place-id="">
+                <span class="block-favorite" data-favorite="372" data-favorite-type="events"></span>                <span class="event-block-top">
+                        <span class="event-block-type">Павильон</span>                        <span class="event-block-title">Шахматный клуб</span>
+                        <span class="event-block-time">Сегодня до 22:00</span>                    </span>
+                <span class="event-block-bottom" style="background-image: url(/upload/resize_cache/iblock/e84/820_550_2/e84b5e8204ee23de3d30c162640838ab.jpg)"></span></a><a href="/places/tekhnograd/" class="event-block" data-place-id="">
+                <span class="block-favorite" data-favorite="249" data-favorite-type="events"></span>                <span class="event-block-top">
+                        <span class="event-block-type">Павильон</span>                        <span class="event-block-title">«Техноград». Инновационно-образовательный комплекс</span>
+                        <span class="event-block-time">Сегодня до 21:00</span>                    </span>
+                <span class="event-block-bottom" style="background-image: url(/upload/resize_cache/iblock/859/820_550_2/859929aeff9b04d5d0a7824760f0346b.jpg)"></span></a><a href="/places/pavilon-1-tsentralnyy/" class="event-block" data-place-id="">
+                <span class="block-favorite" data-favorite="348" data-favorite-type="events"></span>                <span class="event-block-top">
+                        <span class="event-block-type">Павильон</span>                        <span class="event-block-title">Павильон <nobr>№1</nobr>. Экспозиция Третьяковской галереи (Центральный)</span>
+                                            </span>
+                <span class="event-block-bottom" style="background-image: url(/upload/resize_cache/iblock/93d/820_550_2/93dc2e7656f96c293040fb761229bb42.jpg)"></span></a><a href="/places/pavilon-knigi/" class="event-block" data-place-id="">
+                <span class="block-favorite" data-favorite="368" data-favorite-type="events"></span>                <span class="event-block-top">
+                        <span class="event-block-type">Павильон</span>                        <span class="event-block-title">Павильон «Книги» РОСИЗО</span>
+                        <span class="event-block-time">Сегодня до 22:00</span>                    </span>
+                <span class="event-block-bottom" style="background-image: url(/upload/resize_cache/iblock/dae/820_550_2/dae95cbbba03c8f70221db391d8e0198.jpg)"></span></a><a href="/places/pavilon-4-biologiya-byvshiy-estonskaya-ssr/" class="event-block" data-place-id="">
+                <span class="block-favorite" data-favorite="290" data-favorite-type="events"></span>                <span class="event-block-top">
+                        <span class="event-block-type">Павильон</span>                        <span class="event-block-title">Павильон <nobr>№4</nobr>. Выставочно-торговый центр Киргизской Республики </span>
+                                            </span>
+                <span class="event-block-bottom" style="background-image: url(/upload/resize_cache/iblock/59a/820_550_2/59ae11f0c75138ca9b5d40013115c798.jpg)"></span></a><a href="/places/pavilon-28-pchelovodstvo/" class="event-block event-block--more" data-place-id="">
+                <span class="block-favorite" data-favorite="253" data-favorite-type="events"></span>                <span class="event-block-top">
+                        <span class="event-block-type">Павильон</span>                        <span class="event-block-title">Павильон <nobr>№28</nobr>. Эколого-просветительский центр «Пчеловодство»</span>
+                        <span class="event-block-time">Сегодня до 18:00</span>                    </span>
+                <span class="event-block-bottom" style="background-image: url(/upload/resize_cache/iblock/97b/820_550_2/97b2c8fe33c8f01d20d8d45ed5be58e5.jpg)"><div class="item__badges"><span class="event-block-tag">Знаковые места</span></div></span></a><a href="/places/tsentr-kreativnogo-art-dizayna-la-atmosfera/" class="event-block event-block--more" data-place-id="">
+                <span class="block-favorite" data-favorite="20186" data-favorite-type="events"></span>                <span class="event-block-top">
+                        <span class="event-block-type">Павильон</span>                        <span class="event-block-title">Центр креативного арт-дизайна La Atmosfera</span>
+                        <span class="event-block-time">Сегодня до 21:00</span>                    </span>
+                <span class="event-block-bottom" style="background-image: url(/upload/resize_cache/iblock/fe6/820_550_2/fe60cecb11b0eca94b9a0a187c4da948.jpg)"></span></a><a href="/places/pavilon-62-okhrana-prirody-byvshiy-stroitelnye-materialy-/" class="event-block event-block--more" data-place-id="">
+                <span class="block-favorite" data-favorite="358" data-favorite-type="events"></span>                <span class="event-block-top">
+                        <span class="event-block-type">Павильон</span>                        <span class="event-block-title">Павильон <nobr>№62</nobr>. Международный центр балета</span>
+                        <span class="event-block-time">Сегодня до 21:00</span>                    </span>
+                <span class="event-block-bottom" style="background-image: url(/upload/resize_cache/iblock/558/820_550_2/558a02802a2f7cdf99a6314bed0be907.jpg)"></span></a><a href="/places/pavilon-10-standarty-moldavskaya-ssr/" class="event-block event-block--more" data-place-id="">
+                <span class="block-favorite" data-favorite="272" data-favorite-type="events"></span>                <span class="event-block-top">
+                        <span class="event-block-type">Павильон</span>                        <span class="event-block-title">Павильон <nobr>№10</nobr>. Выставочно-торговый центр Республики Молдова</span>
+                        <span class="event-block-time">Сегодня до 23:00</span>                    </span>
+                <span class="event-block-bottom" style="background-image: url(/upload/resize_cache/iblock/3ff/820_550_2/3ffd19f3672dac7cacea0333b6c9896a.jpg)"></span></a><a href="/places/pavilon-11-metallurgiya-byvshiy-kazakhskaya-ssr-/" class="event-block event-block--more" data-place-id="">
+                <span class="block-favorite" data-favorite="273" data-favorite-type="events"></span>                <span class="event-block-top">
+                        <span class="event-block-type">Павильон</span>                        <span class="event-block-title">Павильон <nobr>№11</nobr>. Выставочно-торговый центр Республики Казахстан</span>
+                        <span class="event-block-time">Сегодня до 20:00</span>                    </span>
+                <span class="event-block-bottom" style="background-image: url(/upload/resize_cache/iblock/b76/820_550_2/b763448ec6cfc1737d0bb34eb34344f0.jpg)"></span></a></div>
+    </div>
+
+
+</div>
+	
+</div>
+
+
+	<div id="mapbox" class="mapbox"></div>
+</div>
+
+	        <div class="subscribe a tansition--left">
+            <div class="wrap">
+                <form class="subscribe-form" data-subscribe action="">
+                    <div class="subscribe-title">
+                                                    Главные события ВДНХ в&nbsp;еженедель&shy;ной рассылке:                                            </div>
+                    <div class="subscribe-panel">
+                        <input type="email" required="required" name="email" placeholder="Ваш E-mail" class="subscribe-input">
+                        <button type="submit" class="subscribe-button"></button></div>
+                    <div class="subscribe-final">Вы подписаны на рассылку</div>
+                </form>
+            </div>
+        </div>
+        <footer class="tansition--left">
+            <div class="wrap">
+                <div class="footer-top">
+				                    <div class="footer-socials">
+						<a target="_blank" href="//t.me/vdnh_moscow" class="social social--tg">Телеграм</a>
+                        <a target="_blank" href="https://vk.com/vdnh" class="social social--vk">VK</a>
+						<a target="_blank" href="https://ok.ru/vdnh" class="social social--ok">Одноклассники</a>
+						<a target="_blank" href="https://zen.yandex.ru/vdnh" class="social social--yz">Дзен</a>
+                    </div>
+
+                </div>
+                <div class="footer-bottom">
+                    <div class="footer-menu"><a href="/"		 >Главное</a><a href="/events/"		 >События</a><a href="/places/"		  class="active">Места</a><a href="/selections/"		 >Подборки</a><a href="/visitors/"		 >Посетителям</a><a href="/news/"		 >Новости</a><a href="/contacts/"		 >Контакты</a><a href="/visitors/partners/"		 >Партнеры</a><a href="https://hh.ru/employer/52481"		 target="_blank" >Вакансии</a></div>
+                </div>
+            </div>
+
+                    </footer>
+        </div>
+		            <div class="favorites favorites--empty" data-favorite-events="0" data-favorite-places="0">                				<div class="favorites-title" data-favorites-trigger>
+                    В подборке <span data-favorite-events-count></span><span data-favorite-places-count></span>
+                </div>
+                <div class="favorites-list">
+					<div class="favorites-bottom">
+    <a href="/favorites/" class="favorites-button">Открыть мою подборку</a>
+</div></div>
+
+            </div>
+		    	</div>
+
+				
+		            <!-- Yandex.Metrika counter -->  <noscript><div><img src="https://mc.yandex.ru/watch/54558016" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+				
+		
+
+				<link href="/local/templates/v3_new_header/rasa.css" rel="stylesheet">
+    <script type="text/javascript">if(!window.BX)window.BX={};if(!window.BX.message)window.BX.message=function(mess){if(typeof mess==='object'){for(let i in mess) {BX.message[i]=mess[i];} return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script><script type="text/javascript" src="/bitrix/js/main/core/core.js?1647337714544313"></script><script>BX.setJSList(['/bitrix/js/main/core/core_ajax.js','/bitrix/js/main/core/core_promise.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/loadext/loadext.js','/bitrix/js/main/loadext/extension.js','/bitrix/js/main/polyfill/promise/js/promise.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/includes/js/includes.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/ui/polyfill/closest/js/closest.js','/bitrix/js/main/polyfill/fill/main.polyfill.fill.js','/bitrix/js/main/polyfill/find/js/find.js','/bitrix/js/main/polyfill/matches/js/matches.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/core/core.js','/bitrix/js/main/polyfill/intersectionobserver/js/intersectionobserver.js','/bitrix/js/main/lazyload/dist/lazyload.bundle.js','/bitrix/js/main/polyfill/core/dist/polyfill.bundle.js','/bitrix/js/main/parambag/dist/parambag.bundle.js']);
+BX.setCSSList(['/bitrix/js/main/core/css/core.css','/bitrix/js/main/lazyload/dist/lazyload.bundle.css','/bitrix/js/main/parambag/dist/parambag.bundle.css']);</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_VDNH','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1676548768','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'d0db55cc82de0be454966fcc3d1da81a'});</script><script type="text/javascript" src="https://api.tiles.mapbox.com/mapbox-gl-js/v1.5.0/mapbox-gl.js"></script>
+<script type="text/javascript" src="/bitrix/js/main/jquery/jquery-1.8.3.min.js?157305326993637"></script>
+<script type="text/javascript">
+					(function () {
+						"use strict";
+
+						var counter = function ()
+						{
+							var cookie = (function (name) {
+								var parts = ("; " + document.cookie).split("; " + name + "=");
+								if (parts.length == 2) {
+									try {return JSON.parse(decodeURIComponent(parts.pop().split(";").shift()));}
+									catch (e) {}
+								}
+							})("BITRIX_CONVERSION_CONTEXT_s1");
+
+							if (cookie && cookie.EXPIRE >= BX.message("SERVER_TIME"))
+								return;
+
+							var request = new XMLHttpRequest();
+							request.open("POST", "/bitrix/tools/conversion/ajax_counter.php", true);
+							request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+							request.send(
+								"SITE_ID="+encodeURIComponent("s1")+
+								"&sessid="+encodeURIComponent(BX.bitrix_sessid())+
+								"&HTTP_REFERER="+encodeURIComponent(document.referrer)
+							);
+						};
+
+						if (window.frameRequestStart === true)
+							BX.addCustomEvent("onFrameDataReceived", counter);
+						else
+							BX.ready(counter);
+					})();
+				</script>
+<script type="text/javascript" src="/local/templates/v3_new_header/js/jquery-3.3.1.min.js?163835108086927"></script>
+<script type="text/javascript" src="/local/templates/v3_new_header/js/jquery-ui.min.js?1638351080253669"></script>
+<script type="text/javascript" src="/local/templates/v3_new_header/js/jquery.fancybox.min.js?163835108068256"></script>
+<script type="text/javascript" src="/local/templates/v3_new_header/js/slick.min.js?163903443342863"></script>
+<script type="text/javascript" src="/local/templates/v3_new_header/js/scrollto.min.js?16383510802273"></script>
+<script type="text/javascript" src="/local/templates/v3_new_header/js/jquery.documentsize.min.js?16383510804567"></script>
+<script type="text/javascript" src="/local/templates/v3_new_header/js/rasachat.js?16765414913492"></script>
+<script type="text/javascript" src="/local/js/vdnh_events/main.js?16645298262635"></script>
+<script type="text/javascript" src="/local/templates/v3_new_header/js/places-s1.js?16765487421205117"></script>
+<script type="text/javascript" src="/local/templates/v3_new_header/js/routing.js?165783263423091"></script>
+<script type="text/javascript" src="/local/templates/v3_new_header/js/scripts-2.js?166477800283378"></script>
+<script type="text/javascript" src="/yo_dev/map/script.js?167110065527103"></script>
+<script type="text/javascript" src="/local/components/vdnh/events/templates/places/script.js?16651397855201"></script>
+<script type="text/javascript" src="/local/components/vdnh/events.filter/assets/js/events.js?166453481914470"></script>
+
+<script type="text/javascript">!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src='https://vk.com/js/api/openapi.js?169',t.onload=function()
+	
+	{VK.Retargeting.Init("VK-RTRG-1469670-6kfwg"),VK.Retargeting.Hit()}
+	,document.head.appendChild(t)}();</script><script type="text/javascript">
+		var map_style = 2;
+	</script>
+<script>
+		var _paq = window._paq = window._paq || [];
+		/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+		_paq.push(["setCookieDomain", "*.vdnh.ru"]);
+		_paq.push(['trackPageView']);
+		_paq.push(['enableLinkTracking']);
+		(function()
+
+			{ var u="https://matomo.dit.vdnh.ru/"; _paq.push(['setTrackerUrl', u+'matomo.php']); _paq.push(['setSiteId', '3']); var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s); }
+		)();
+	</script>
+<script>
+	sliderResize();
+	function sliderResize() {
+		let width = $('.header-inner').offset().left;
+		$('.blank-slide').width(width).height($('[data-slider]').height());
+	}
+	$(window).on('resize', function() {sliderResize()} );
+</script>
+<script>
+                                
+                                    $(document).ready(function() {
+                                        
+                                        $('[data-show-events]').showMore({
+                                            container : '#data-show-events',
+                                            items : '.route-block-item',
+                                            counter : '[data-show-count]',
+                                            show : {'total':'2','first':'2','next':'0'}                                        });
+                                        
+                                    });
+                                    
+                                </script>
+<script>
+
+	$(document).ready(function() {
+		
+				
+			$.getScript( "https://vdnh.ru/local/api/js/ticket_batton/script.js", function( data, textStatus, jqxhr ) {
+				$('.js__ticket--button').ticketButton();
+				$('.js__ticket--button').on('click', function () {
+					 ym(54558016,'reachGoal','CLICK_BUY');
+				});
+			});
+			
+			let params = {
+				siteId : 's1',
+				mapType : 'places',
+				filterName : 'places',
+				sefFolder : '/places/',
+				active : [287]
+			}
+			
+			var page = $('.v-elements').placesMapComponent(params).init();
+			
+				
+	});
+</script>
+
+
+
+
+<script>
+                $(function() {
+                    var cookiePolitic   = localStorage.getItem('cookiePolitic');
+                    var colorhost       = {
+                                "expo.vdnh.ru"      : '#356DD3',
+                                "vdnh.ru"           : '#E22C38',
+                                "cosmos.vdnh.ru"    : '#333778',
+                                "slovo.vdnh.ru"     : '#DE5637',
+                                "znanie.vdnh.ru"    : '#EE9585',
+                                "katok.vdnh.ru"     : '#5576B6',
+                            };
+                    var gethostname     = location.hostname;
+                    var mycolor = '';
+
+                    $.each(colorhost,function(key, value){
+                        if(gethostname == key) mycolor = value;
+                    });
+
+                    $('.cookiepolitic__link').css("color", mycolor);
+                    $('.cookiepolitic__button').css("background", mycolor);
+
+                    if(jQuery.type(cookiePolitic) === "null" && !cookiePolitic){
+                        $('.cookiepolitic').addClass('cookiepolitic--active');
+                    }
+                });
+
+                $('.js-cookiepolitic').click(function() {
+                    $('.cookiepolitic').removeClass('cookiepolitic--active');
+                    localStorage.setItem('cookiePolitic', 'true');
+                });
+            </script>
+<script>
+                    favorites = [];
+                </script>
+<script>
+			var yaParams={};
+			jQuery(document).ready(function($) {
+				yaParams.ab_delphilite="null";
+			});
+		</script>
+<script type="text/javascript" > (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym"); ym(54558016, "init", { clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true, trackHash:true, params: yaParams }); </script><script>var search_popular = ["парковка","космос","обзорные экскурсии"];</script>
+
+<script type="text/javascript">
+	
+		const elements = document.querySelectorAll('a.h1--all');
+		elements.forEach((element) => {
+			if (element.textContent == "События"){
+				element.textContent = element.textContent.replace('События','скоро на вднх');
+				element.style.color = '#262626 !important';
+			}
+		});
+	
+		const elements2 = document.querySelectorAll('div.h1');
+		elements2.forEach((element2) => {
+			if (element2.textContent == "Сейчас на ВДНХ"){
+			//element2.textContent = element2.textContent.replace('Сейчас на ВДНХ','сейчас на вднх');
+			console.log(element2.textContent);
+				element2.style.color = '#262626';
+			}
+		});
+	
+		
+		$(document).ajaxSuccess(function(e, xhr) {
+			
+			/**
+			  * vTableInit placed in /local/js/vdnh_events/vtable.js
+			  */
+				if ( typeof vTableInit === 'function' ) {
+					vTableInit(true);
+				}
+				if ( typeof makeSliders === 'function' ) {
+					makeSliders();
+				}
+			/**/
+			
+			var ticket_button = $('[data-vdnh-tickets]');
+			if ( ticket_button.is('button') || ticket_button.is('a') || ticket_button.is('span') ) {
+				$('[data-vdnh-tickets]').ticketButton();
+			}
+		});
+	
+	</script>
+
+</body>
+</html>
