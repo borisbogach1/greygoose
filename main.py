@@ -62,17 +62,21 @@ def creareroute():
         # point13=get_key(d,point2+"\n")
         # print(point11,point12,point13)
 
-
-        file='route_description/11.txt'
-        file=open(file,mode='w')
+        file = 'route_description/11.txt'
+        file = open(file, mode='w')
+        lines = []
         for i in routepoint:
-            file.write(i+'\t#'+'\n')
-        create_map('route_description/11.txt',spn='0.01,0.01')
+            lines.append(i + ' #')
+        line = '\n'.join(lines)
+        file.write(line)
+        file.close()
+
+        create_map('route_description/11.txt', spn='0.01,0.01')
         values = {"number": '11',
                   "file_map": "../static/" + '11' + ".png"}
         return render_template("suggested_route.html", **values)
 
-        return
+
     else:
         return render_template("createroute.html", form=form)
 
