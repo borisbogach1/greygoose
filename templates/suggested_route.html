@@ -6,7 +6,11 @@
 
 {% block body%}
 
-<h1> {{ number }} </h1>
+{% if number < 10 %}
+       <h1> Маршрут № {{ number }} </h1>
+{% else %}
+       <h1> Пользовательский маршрут </h1>
+{% endif %}
 
 
 <img src="{{ file_map }}" width=”500″ height=”600″ alt='маршрут {{ number }}'>

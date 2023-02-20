@@ -72,8 +72,8 @@ def creareroute():
         file.close()
 
         create_map('route_description/11.txt', spn='0.01,0.01')
-        values = {"number": '11',
-                  "file_map": "../static/" + '11' + ".png"}
+        values = {"number": 11,
+                  "file_map": "../static/11.png"}
         return render_template("suggested_route.html", **values)
 
 
