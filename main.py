@@ -11,7 +11,7 @@ def index():
     return render_template("index.html")
 
 
-@app.route('/intrestpoints')
+@app.route('/interestpoints')
 def interes_poins():
     return render_template('interestpoints.html')
 
