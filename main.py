@@ -28,7 +28,7 @@ def suggestedroutes():
 @app.route('/suggested_route/<int:number>')
 def suggested_route(number):
     pretty_number = str(number // 10) + str(number % 10)
-    create_map('route_description/' + pretty_number + '.txt')
+    # create_map('route_description/' + pretty_number + '.txt')
     desc = open("static/route_descritption/" + pretty_number[1] + ".txt", encoding='utf-8')
     desc = desc.readline()
     print(desc)
@@ -86,10 +86,10 @@ def creareroute():
 
 if __name__ == "__main__":
 
-    create_map('route_description/01.txt', center='37.635426,55.829703')
-    create_map('route_description/02.txt', center='37.635426,55.829703')
-    create_map('route_description/03.txt', center='37.635426,55.829703')
-    create_map('route_description/04.txt', center='37.635426,55.829703')
+    # create_map('route_description/01.txt', center='37.635426,55.829703')
+    # create_map('route_description/02.txt', center='37.635426,55.829703')
+    # create_map('route_description/03.txt', center='37.635426,55.829703')
+    # create_map('route_description/04.txt', center='37.635426,55.829703')
 
     d = {}
 
