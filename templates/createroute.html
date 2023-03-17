@@ -5,28 +5,41 @@
 {%endblock%}
 
 {%block body%}
-<h1>Создайте свой маршрут</h1>
- <form action="" method="post">
-       <fieldset>
-           <label for="startpoint">Название начальной точки</label>
-           <input type="text" name="startpoint" placeholder="startpoint">
-       </fieldset>
-       <fieldset>
-           <label for="point1"> Первая точка</label>
-           <input type="text" name="point1" placeholder="point1">
-       </fieldset>
-        <fieldset>
-           <label for="point2"> Вторая точка</label>
-           <input type="text" name="point2" placeholder="point2">
-       </fieldset>
-     <fieldset>
-           <label for="point3"> Третья точка</label>
-           <input type="text" name="point3" placeholder="point3">
-       </fieldset>
-       <fieldset>
-           <label for="endpoint">Конечная точка</label>
-           <input type="text" name="endpoint" placeholder="endpoint">
-       </fieldset>
-       <button type="submit">Создать маршрут</button>
-   </form>
+
+<div class="col">
+    <h1>Создайте свой маршрут</h1>
+    <div align="right">
+    <h4 class="d-flex justify-content-between align-items-center mb-3">
+    <form action="" method="post">
+          <fieldset>
+              <label for="startpoint">ㅤНачальная точка</label>
+              <label for="point1">ㅤ</label>
+              <input type="text" name="startpoint" placeholder="startpoint">
+          </fieldset>
+          <fieldset>
+              <label for="point1">ㅤПервая точка</label>
+              <label for="point1">ㅤ</label>
+              <input type="text" name="point1" placeholder="point1">
+          </fieldset>
+          <fieldset>
+              <label for="point2">ㅤВторая точка</label>
+              <label for="point1">ㅤ</label>
+              <input type="text" name="point2" placeholder="point2">
+          </fieldset>
+         <fieldset>
+               <label for="point3">ㅤТретья точка</label>
+             <label for="point1">ㅤ</label>
+               <input type="text" name="point3" placeholder="point3">
+           </fieldset>
+           <fieldset>
+               <label for="endpoint">ㅤКонечная точка</label>
+               <label for="point1">ㅤ</label>
+               <input type="text" name="endpoint" placeholder="endpoint">
+           </fieldset>
+           <button type="submit">Создать маршрут</button>
+       </form>
+       <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A251790b05d0b03bdf60c2b11b44db8c6e0824c9ff40bffb8353f32d009ce7bbe&amp;width=1040&amp;height=660&amp;lang=ru_RU&amp;scroll=true"></script>
+    </div>
+</div>
+
 {%endblock%}
