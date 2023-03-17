@@ -10,7 +10,6 @@ app = Flask(__name__)
 def index():
     return render_template("main_page.html")
 
-
 @app.route('/interestpoints')
 def interes_poins():
     return render_template('interestpoints.html')
@@ -30,8 +29,12 @@ def suggestedroutes():
 def suggested_route(number):
     pretty_number = str(number // 10) + str(number % 10)
     create_map('route_description/' + pretty_number + '.txt')
+    desc = open("static/route_descritption/" + pretty_number[1] + ".txt", encoding='utf-8')
+    desc = desc.readline()
+    print(desc)
     values = {"number": number,
-              "file_map": "../static/" + pretty_number + ".png"}
+              "file_map": "../static/" + pretty_number + ".png",
+              "description": desc}
     return render_template('suggested_route.html', **values)
 
 

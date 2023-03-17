@@ -8,10 +8,16 @@
 
 {% if number < 10 %}
        <h1> Маршрут № {{ number }} </h1>
+       <div align="center">
+              <h4 class="d-flex justify-content-between align-items-center">
+              <img src="{{ file_map }}" width="900" height="675" alt='маршрут {{ number }}' style="color:white">
+              <p style="width: 50%">{{ description }}</p>
+              </h4>
+       </div>
 {% else %}
        <h1> Пользовательский маршрут </h1>
+       <div align="center">
+              <img src="{{ file_map }}" width="900" height="675" alt='маршрут {{ number }}' style="color:white">
+       </div>
 {% endif %}
-<div align="center">
-       <img src="{{ file_map }}" width="900" height="675" alt='маршрут {{ number }}'>
-</div>
 {% endblock %}
